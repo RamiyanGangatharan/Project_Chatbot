@@ -1,0 +1,18 @@
+{
+  "introductions": [
+    " How may I help you?",
+    " How can I assist you today?",
+    " What shall I do, young Padawan?",
+    " What's up?"
+  ],
+  "conclusions": [
+    " Thanks for using MiniGPT :)",
+    " Adios Amigo!",
+    " See you later.",
+    " Have a good one!",
+    " Ciao",
+    " TTYL",
+    " bye.",
+    " So you are leaving me already? Alright then :("
+  ]
+}
